@@ -5,14 +5,14 @@
 Le projet est un jeu de SameGame dont le but est de faire disparaitre tous les blocs du terrain de jeu. Celui-ci est sous la forme d’un rectangle. Les blocs sont divisés en trois couleurs différentes
 
 ### Le menu
-<img src="menu.PNG" alt="menu" width="30%">
+<img src="menu.PNG" alt="menu" width="50%">
 
 ### Le jeu
-<img src="game.PNG" alt="game" width="30%">
+<img src="game.PNG" alt="game" width="50%">
 
 ### Fin du jeu
-<img src="finish.PNG" alt="finish" width="30%">
+<img src="finish.PNG" alt="finish" width="50%">
 
 ### Top 10
 A la fin d'une partie le score est enregistré dans une base de données mysql et les 10 meilleurs score sont affichés.
-<img src="scoreboard.PNG" alt="streamer" width="30%">
+<img src="scoreboard.PNG" alt="streamer" width="50%">
